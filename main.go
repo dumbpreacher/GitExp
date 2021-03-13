@@ -9,6 +9,7 @@ func main() {
 	fmt.Println("mainexp 1")
 
 	fmt.Println("2nd")
+	fmt.Println("3rd")
 }
 
 //comment to check merge
